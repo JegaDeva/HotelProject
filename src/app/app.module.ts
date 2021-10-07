@@ -25,15 +25,6 @@ import { ShoppingEditComponent } from './shopping-list/shopping-edit/shopping-ed
     RecipesComponent,
     ShoppingEditComponent,
   ],
-  bootstrap: [
-    AppComponent,
-    HeaderComponent,
-    RecipeListComponent,
-    RecipeDetailComponent,
-    RecipeItemComponent,
-    ShoppingListComponent,
-    RecipesComponent,
-    ShoppingEditComponent,
-  ],
+  bootstrap: [AppComponent],
 })
 export class AppModule {}
