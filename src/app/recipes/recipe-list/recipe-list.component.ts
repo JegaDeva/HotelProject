@@ -11,7 +11,7 @@ export class RecipeListComponent implements OnInit {
     new Recipe(
       'A Test Recipe',
       'This is simply a Test',
-      'https:/cdn/pixabay.com/photo/2016/06/15/09/food/1459693_960_720.jpg'
+      'https://www.google.com/search?q=hotel+recipe+image&tbm=isch&chips=q:hotel+recipe,g_1:rice:ieyysWtEwc0%3D&rlz=1C1GCEU_en-GBIN886IN886&hl=en&sa=X&ved=2ahUKEwjj2vWf3b3zAhXckUsFHTUAC-UQ4lYoA3oECAEQFw'
     ),
   ];
   constructor() {}
